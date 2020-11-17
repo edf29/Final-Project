@@ -1,9 +1,9 @@
 # Final Project
 ## Team Name:
-Team Name
+CET
 ## Team Members
-* Christopher Abboud, 
-* Ethan Fatzinger, 
+* Christopher Abboud, cha56@pitt.edu
+* Ethan Fatzinger, edf29@pitt.edu
 * Tyler Marzen, trm87@pitt.edu
 ## Links and Description of Datasets
 **Metric: Trees**
@@ -18,4 +18,4 @@ Team Name
 * Database Link: https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367
     * Description: Playgrounds in the city of Pittsburgh.
 ## Abstract
-Abstract Here
+Through our analysis, we determined that Squirrel Hill South. This was determined by looking at three metrics: number of trees, number of playing field, and number of playgrounds. These metrics are purely quantitative, and to account for the disproportionate amount of trees, we divided the number of trees by 40 to scale them properly.
