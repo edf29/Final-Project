@@ -2,7 +2,9 @@
 ## Team Name:
 Team Name
 ## Team Members
-Christopher Abboud, Ethan Fatzinger, and Tyler Marzen
+* Christopher Abboud, 
+* Ethan Fatzinger, 
+* Tyler Marzen, trm87@pitt.edu
 ## Links and Description of Datasets
 **Metric: Trees**
 * Database Link: https://data.wprdc.org/dataset/city-trees
