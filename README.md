@@ -18,4 +18,4 @@ CET
 * Database Link: https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367
     * Description: Playgrounds in the city of Pittsburgh.
 ## Abstract
-Through our analysis, we determined that Squirrel Hill South. This was determined by looking at three metrics: number of trees, number of playing field, and number of playgrounds. These metrics are purely quantitative, and to account for the disproportionate amount of trees, we divided the number of trees by 40 to scale them properly.
+Through our analysis, we determined that Squirrel Hill South. This was determined by looking at three metrics: number of trees, number of playing field, and number of playgrounds. These metrics are purely quantitative so the neighborhood that, when summed, had the most amount of combined trees, playing fields, and playgrounds was determined the best. To account for the disproportionate amount of trees, we divided the number of trees by 40 to scale them properly.
